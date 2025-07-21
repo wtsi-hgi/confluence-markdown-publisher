@@ -1,3 +1,4 @@
 .env
 confluence_output
 .venv
+docs/*.md
